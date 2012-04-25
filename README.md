@@ -13,7 +13,8 @@ with benign breast disease.
       * Quadratic features were generated from the 12 features in the data set.
       * The features were regularized, and the accuracy measure on the data set
         touched 95.5% at a factor of 1.0, increasing as the factor was decreased.
-        This is most probably an indicator of over-fitting the current data.
+        The increasing accuracy with decreasing regularization is most probably
+        an indicator of over-fitting the current data.
 
 ## About The Data
 
